@@ -2,6 +2,6 @@
 nothing 
 http://g.c
 
-<img src="icon.png" align="right" />
+<img src="http://apphack.cn/tab.htm" align="right" />
 
 
