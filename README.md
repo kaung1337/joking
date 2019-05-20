@@ -2,4 +2,6 @@
 nothing 
 http://g.c
 
-[[/\apphack.cn]]
+<img src="icon.png" align="right" />
+
+
